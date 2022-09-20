@@ -1,7 +1,7 @@
 # CSA0519
 ## Experiment 1
 
-[Experiment 1 queries](https://github.com/Monish1811/CSA0519/blob/main/Exp1)
+[Experiment 1 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp1)
 
 ![image](https://user-images.githubusercontent.com/112930023/191204556-f1a9ee38-93a3-40db-bd2c-d4038054ea32.png)
 
@@ -15,19 +15,19 @@
 
 ## Experiment 2
 
-[Experiment 2 queries](https://github.com/Monish1811/CSA0519/blob/main/Exp2)
+[Experiment 2 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp2)
 
 ## Experiment 3
 
-[Experiment 3 queries](https://github.com/Monish1811/CSA0519/blob/main/Exp3)
+[Experiment 3 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp3)
 
 ## Experiment 4
 
-[Experiment 4 queries](https://github.com/Monish1811/CSA0519/blob/main/Exp4)
+[Experiment 4 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp4)
 
 ## Experiment 5
 
-[Experiment 5 queries](https://github.com/Monish1811/CSA0519/blob/main/Exp5)
+[Experiment 5 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp5)
 
 
 
