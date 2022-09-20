@@ -31,6 +31,8 @@
 
 [Experiment 3 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp3)
 
+![image](https://user-images.githubusercontent.com/112930023/191273269-e167b26c-1337-4699-87c6-07a39e2025e0.png)
+
 ## Experiment 4
 
 [Experiment 4 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp4)
