@@ -1,13 +1,1 @@
-CREATE TABLE course(courseNo varchar(3),coursedesc varchar(14), coursetype char(1), Semno char(1),Hallno varchar(4),Facno varchar(4));
-mysql> describe w.course;
-+--------------+-------------+------+-----+---------+-------+
-| Field        | Type        | Null | Key | Default | Extra |
-+--------------+-------------+------+-----+---------+-------+
-| course_no    | int         | YES  |     | NULL    |       |
-| course_descr | varchar(14) | YES  |     | NULL    |       |
-| course_type  | varchar(1)  | YES  |     | NULL    |       |
-| sem_no       | int         | YES  |     | NULL    |       |
-| hall_no      | int         | YES  |     | NULL    |       |
-| fac_no       | int         | YES  |     | NULL    |       |
-+--------------+-------------+------+-----+---------+-------+
-6 rows in set (0.00 sec)
+
