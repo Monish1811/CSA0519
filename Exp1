@@ -1,0 +1,18 @@
+mysql> create database w;
+Query OK, 1 row affected (0.03 sec)
+
+mysql> create table w.student(reg_no int(3),name varchar(15),gender varchar(1), dob date,mobile_no int(10), city varchar(15));
+Query OK, 0 rows affected, 2 warnings (0.02 sec)
+
+mysql> describe w.student;
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| reg_no    | int         | YES  |     | NULL    |       |
+| name      | varchar(15) | YES  |     | NULL    |       |
+| gender    | varchar(1)  | YES  |     | NULL    |       |
+| dob       | date        | YES  |     | NULL    |       |
+| mobile_no | int         | YES  |     | NULL    |       |
+| city      | varchar(15) | YES  |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+6 rows in set (0.00 sec)
