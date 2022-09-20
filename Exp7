@@ -1,0 +1,21 @@
+mysql> alter table sse.faculty add primary key(facno);
+Query OK, 0 rows affected (0.16 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> alter table sse.faculty add check(gender='M'or'F');
+Query OK, 0 rows affected (0.11 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+mysql> desc sse.faculty;
++----------+-------------+------+-----+---------+-------+
+| Field    | Type        | Null | Key | Default | Extra |
++----------+-------------+------+-----+---------+-------+
+| facNo    | varchar(3)  | NO   | PRI |         |       |
+| facName  | char(15)    | YES  |     | NULL    |       |
+| Gender   | char(1)     | YES  |     | NULL    |       |
+| DOB      | int(10)     | YES  |     | NULL    |       |
+| DOJ      | int(10)     | YES  |     | NULL    |       |
+| mobileNo | int(10)     | YES  |     | NULL    |       |
+| deptNo   | varchar(10) | YES  |     | NULL    |       |
++----------+-------------+------+-----+---------+-------+
+7 rows in set (0.00 sec)
