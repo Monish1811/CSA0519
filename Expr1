@@ -1,0 +1,32 @@
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
+| u                  |
++--------------------+
+5 rows in set (0.01 sec)
+
+mysql> use u;
+Database changed
+mysql> show tables;
++-------------+
+| Tables_in_u |
++-------------+
+| faculty     |
+| student     |
++-------------+
+2 rows in set (0.01 sec)
+
+mysql> desc faculty;
++--------+-------------+------+-----+---------+-------+
+| Field  | Type        | Null | Key | Default | Extra |
++--------+-------------+------+-----+---------+-------+
+| name   | varchar(10) | YES  |     | NULL    |       |
+| age    | int         | NO   |     | NULL    |       |
+| gender | varchar(1)  | YES  |     | NULL    |       |
++--------+-------------+------+-----+---------+-------+
+3 rows in set (0.00 sec)
