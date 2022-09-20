@@ -17,6 +17,16 @@
 
 [Experiment 2 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp2)
 
+![image](https://user-images.githubusercontent.com/112930023/191272715-c7dcd175-bfc0-4f15-9cdc-993939e848d0.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191272761-bc155bda-2769-4fde-85d2-402a32e19613.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191272778-89d15d3c-8e08-49b5-a48f-68eaacff9e83.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191272835-daa33be2-bedf-4e61-9c76-26553db899f5.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191272898-eddbf826-4e0a-43d6-8874-21c07e2adb93.png)
+
 ## Experiment 3
 
 [Experiment 3 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp3)
