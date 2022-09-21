@@ -73,6 +73,17 @@
 
 ![image](https://user-images.githubusercontent.com/112930023/191388120-171441ab-727c-40c7-870d-c29f0e06a3bc.png)
 
+##Experiment 9
+
+[Experiment 9 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp9)
+
+![image](https://user-images.githubusercontent.com/112930023/191426114-29dc0156-d58e-492f-b923-e1851603db0c.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191426164-2e9af9fe-36c5-4e4c-97f7-863ffe0ae2ea.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191426197-1e86d9b6-8cad-4018-aea6-fd51ece15d1e.png)
+
+
 
 
 
