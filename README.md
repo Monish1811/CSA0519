@@ -59,7 +59,7 @@
 
 ![image](https://user-images.githubusercontent.com/112930023/191387839-70986d3e-3132-4844-8630-799e3934e3a0.png)
 
-##Experiment 6
+## Experiment 6
 
 [Experiment 6 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp6)
 
@@ -67,19 +67,19 @@
 
 ![image](https://user-images.githubusercontent.com/112930023/191388011-197993e2-8407-4416-96fe-af1e8dc49a4b.png)
 
-##Experiment 7
+## Experiment 7
 
 [Experiment 7 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp7)
 
 ![image](https://user-images.githubusercontent.com/112930023/191388120-171441ab-727c-40c7-870d-c29f0e06a3bc.png)
 
-##Experiment 8
+## Experiment 8
 
 [Experiment 8 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp8)
 
+![image](https://user-images.githubusercontent.com/112930023/191427642-f6e6f299-5c44-4cc3-a1e3-7370933371cf.png)
 
-
-##Experiment 9
+## Experiment 9
 
 [Experiment 9 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp9)
 
