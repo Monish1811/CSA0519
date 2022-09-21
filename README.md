@@ -47,5 +47,33 @@
 
 [Experiment 5 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp5)
 
+![image](https://user-images.githubusercontent.com/112930023/191387654-4966b6e2-9796-4899-83c2-af0feeca2975.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191387691-396ffab5-d9ca-4429-8a0e-c711c655ef7d.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191387722-563fd252-2be1-4250-8188-07032bdf4942.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191387766-448231b5-8b97-4679-91ac-aaaecda2a16c.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191387809-5608851d-09d6-42a0-9783-bdc0f9617326.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191387839-70986d3e-3132-4844-8630-799e3934e3a0.png)
+
+##Experiment 6
+
+[Experiment 6 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp6)
+
+![image](https://user-images.githubusercontent.com/112930023/191387977-ccfe3892-d9f9-4739-916a-21e17397845f.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191388011-197993e2-8407-4416-96fe-af1e8dc49a4b.png)
+
+##Experiment 7
+
+[Experiment 7 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp7)
+
+![image](https://user-images.githubusercontent.com/112930023/191388120-171441ab-727c-40c7-870d-c29f0e06a3bc.png)
+
+
+
 
 
