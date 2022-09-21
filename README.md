@@ -89,6 +89,12 @@
 
 ![image](https://user-images.githubusercontent.com/112930023/191426197-1e86d9b6-8cad-4018-aea6-fd51ece15d1e.png)
 
+## Experiment 10
+
+[Experiment 10 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp10)
+
+
+
 
 
 
