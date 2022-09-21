@@ -73,6 +73,12 @@
 
 ![image](https://user-images.githubusercontent.com/112930023/191388120-171441ab-727c-40c7-870d-c29f0e06a3bc.png)
 
+##Experiment 8
+
+[Experiment 8 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp8)
+
+
+
 ##Experiment 9
 
 [Experiment 9 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp9)
