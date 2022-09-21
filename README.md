@@ -93,6 +93,9 @@
 
 [Experiment 10 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp10)
 
+![image](https://user-images.githubusercontent.com/112930023/191446297-0bde43fb-41f1-4a63-b95a-9fcdfb283d56.png)
+
+
 
 
 
