@@ -135,6 +135,14 @@
 
 ![image](https://user-images.githubusercontent.com/112930023/191645885-a1749f64-7546-45b5-b712-7bd287bc6ef8.png)
 
+## Experiment 16
+
+[Experiment 16 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp16)
+
+![image](https://user-images.githubusercontent.com/112930023/191645840-1a1db43b-f215-4b58-8077-368244d06b44.png)
+
+![image](https://user-images.githubusercontent.com/112930023/191645885-a1749f64-7546-45b5-b712-7bd287bc6ef8.png)
+
 
 
 
