@@ -12,6 +12,6 @@ mysql> select @email_list;
 +---------------------------------------------------+
 | @email_list                                       |
 +---------------------------------------------------+
-| ramyadevi@gmail.com,ramya@gmail.com,uk@gmail.com, |
+| monish@gmail.com,monty@gmail.com,mk@gmail.com, |
 +---------------------------------------------------+
 1 row in set (0.00 sec)
