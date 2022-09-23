@@ -155,6 +155,13 @@
 
 ![191779683-6198f87c-153e-4713-afa1-fc38d2d3c73b](https://user-images.githubusercontent.com/112930023/191782107-c565f7b4-0291-499a-b447-487e1c33e7f2.png)
 
+## Experiment 20
+
+[Experiment 20 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp20)
+
+![191784136-bdb73f23-fe7f-4a1b-abb9-e40bad5fb8b4](https://user-images.githubusercontent.com/112930023/191881059-8cf90ffb-9cac-4bad-b508-9f81c691764c.png)
+
+
 
 
 
