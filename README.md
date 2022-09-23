@@ -161,6 +161,13 @@
 
 ![191784136-bdb73f23-fe7f-4a1b-abb9-e40bad5fb8b4](https://user-images.githubusercontent.com/112930023/191881059-8cf90ffb-9cac-4bad-b508-9f81c691764c.png)
 
+## Experiment 22
+
+[Experiment 22 Outputs](https://github.com/Monish1811/CSA0519/blob/main/Exp22)
+
+![image](https://user-images.githubusercontent.com/112930023/191892968-d5ecfd23-189b-4017-b04a-377173ee6b83.png)
+
+
 
 
 
